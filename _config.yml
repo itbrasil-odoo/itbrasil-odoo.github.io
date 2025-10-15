@@ -1,0 +1,19 @@
+title: IT Brasil Odoo
+description: Ferramentas e templates para desenvolvimento Odoo pela IT Brasil
+theme: minima
+logo: /logo.png
+
+# Custom colors (if supported by theme)
+# minima theme supports some customization
+header_pages:
+  - index.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
