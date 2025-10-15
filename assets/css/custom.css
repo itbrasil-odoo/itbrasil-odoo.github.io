@@ -1,0 +1,30 @@
+/* Custom styles for IT Brasil Odoo site */
+body {
+  background-color: #ffffff;
+}
+
+.site-header {
+  background-color: #211f5f;
+  color: #ffffff;
+}
+
+.site-title {
+  color: #ffffff;
+}
+
+.site-nav .page-link {
+  color: #3953a4;
+}
+
+.site-nav .page-link:hover {
+  color: #211f5f;
+}
+
+.btn {
+  background-color: #3953a4;
+  color: #ffffff;
+}
+
+.btn:hover {
+  background-color: #211f5f;
+}

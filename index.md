@@ -7,7 +7,7 @@ title: Home
 
 Este site apresenta as ferramentas e templates adaptados para desenvolvimento Odoo pela IT Brasil — Soluções Corporativas, empresa parceira do Odoo.
 
-## Reositórios Adaptados da OCA
+## Repositórios Adaptados da OCA
 
 Os seguintes repositórios foram copiados e adaptados da [Odoo Community Association (OCA)](https://github.com/OCA) para atender às necessidades específicas da IT Brasil. Mantivemos a compatibilidade e melhoramos para o contexto brasileiro, dando os devidos créditos à OCA.
 

@@ -3,8 +3,10 @@ description: Ferramentas e templates para desenvolvimento Odoo pela IT Brasil
 theme: minima
 logo: /logo.png
 
-# Custom colors (if supported by theme)
-# minima theme supports some customization
+# Custom CSS
+include: ["assets"]
+
+# Header pages
 header_pages:
   - index.md
 
